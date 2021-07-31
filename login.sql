@@ -36,3 +36,5 @@ from usuarios;
 # TESTE
 select * from usuarios;
 select * from usuarios where 'Comum' = tipo;
+
+UPDATE usuarios SET tipo = 'ADMINISTRADOR' WHERE `usuarios`.`id_usuario` = 1;
