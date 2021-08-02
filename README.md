@@ -3,7 +3,7 @@
 ```markdown
 Projeto Web desenvolvido em PHP usando framework Codeigniter
 ```
-Trabalho escolar para menção parcial do segundo Trimestre de 2019, da disciplina de **PW 2** (**P**rogramação **W**eb **2**) do ***Curso Técnico de Desenvolvimento de Sistemas da Etec de Embu\***, orientado pelo professor **Marcos Costa**.
+Trabalho escolar para menção parcial do segundo Trimestre de 2019, da disciplina de **PW 2** (**P**rogramação **W**eb **2**) do **Curso Técnico de Desenvolvimento de Sistemas da Etec de Embu**, orientado pelo professor **Marcos Costa**.
 
 ## **Objetivo:**
 Desenvolver uma aplicação Web na qual seja possível executar todas as operações de um **CRUD** (**C**reate, **R**ead, **U**pdate e **D**elete) em um sistema de cadastro de usuário, usando o padrão de desenvolvimento **MVC** (**M**odel-**V**iew-**C**ontroller) com dois tipos de usuário (Administrador e Comum).
